@@ -1,0 +1,28 @@
+# Core LangChain and LangGraph
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.40
+langchain-google-genai==1.0.10
+langchain-text-splitters==0.2.4
+langgraph==0.2.16
+
+# Vector Database
+chromadb==0.4.24
+
+# Document Loaders
+pypdfium2==4.30.0
+youtube-transcript-api==0.6.2
+beautifulsoup4==4.12.3
+pytube==15.0.0
+
+# Git Support (optional but recommended)
+gitpython==3.1.43
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+urllib3==2.2.2
+
+# Additional file format support
+openpyxl==3.1.2
+python-multipart==0.0.9
