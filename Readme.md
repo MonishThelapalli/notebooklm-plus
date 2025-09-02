@@ -22,7 +22,7 @@ The system includes **token-aware chunking**, **vector-based retrieval**, and an
 - ✅ Multi-source ingestion: GitHub, PDF, YouTube, Website, DOCX, CSV, Markdown, TXT  
 - ✅ Smart chunking with overlap & token estimation  
 - ✅ Vector search powered by **Chroma DB**  
-- ✅ **Google Gemini 1.5 Flash** + `text-embedding-004` embeddings  
+- ✅ **Google Gemini 2.5 pro** + `text-embedding-004` embeddings  
 - ✅ Fallback to Whisper transcription for YouTube  
 - ✅ Interactive CLI with chat history and confidence scoring  
 - ✅ Apache 2.0 licensed, easy to extend  
